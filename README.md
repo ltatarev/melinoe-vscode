@@ -1,2 +1,1 @@
-# melinoe-vscode-theme
-🦄 Dark &amp; colorful theme for VSCode
+# 🌆 Melinoë theme for Visual Studio Code
