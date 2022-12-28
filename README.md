@@ -1,4 +1,4 @@
-<h1 align="right"><img src="icon.png" align="left" height="200"/>🌆 Melinoë theme for Visual Studio Code</h1>
+<h1 align="right"><img src="https://user-images.githubusercontent.com/38048916/209738883-a15d8884-cf4e-4f9d-9443-1ac9213c8eba.png" align="left" height="200"/>🌆 Melinoë theme for Visual Studio Code</h1>
 
 <p align="right">
 Dark & colorful theme for VSCode
@@ -9,7 +9,7 @@ Dark & colorful theme for VSCode
 </p>
 <br>
 
-![banner](banner.png)
+![banner](https://user-images.githubusercontent.com/38048916/209738900-f7254644-e866-4c53-b08f-214815de78c9.png)
 
 ## 👩‍💻 Installation
 
