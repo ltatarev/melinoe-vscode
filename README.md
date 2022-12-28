@@ -4,7 +4,7 @@
 Dark & colorful theme for VSCode
   <br><br>
   <a href="https://marketplace.visualstudio.com/items?itemName=ltatarev.melinoe">
-    <img alt="badge" src="https://img.shields.io/visual-studio-marketplace/v/ltatarev.melinoe?label=VS%20Marketplace&logo=visualstudiocode&style=flat-square">
+    <img alt="badge" src="https://img.shields.io/visual-studio-marketplace/v/ltatarev.melinoe?label=VS%20Marketplace&logo=visualstudiocode&color=blueviolet&style=flat-square">
   </a>
 </p>
 <br>
