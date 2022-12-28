@@ -13,9 +13,9 @@ Dark & colorful theme for VSCode
 
 ## 👩‍💻 Installation
 
-Open VS Code, then launch Quick Open (`Ctrl+P`). Paste in `ext install ltatarev.melinoe` and press enter.
+Open VS Code, then launch Quick Open (<kbd>Ctrl</kbd>+<kbd>P</kbd>). Paste in `ext install ltatarev.melinoe` and press enter.
 
-To activate the theme, use the keyboard shortcut `Ctrl+K Ctrl+T` or select **File** > **Preferences** > **Color Theme** and choose **Melinoe**.
+To activate the theme, use the keyboard shortcut <kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>Ctrl</kbd>+<kbd>T</kbd> or select **File** > **Preferences** > **Color Theme** and choose **Melinoe**.
 
 ---
 
