@@ -19,4 +19,4 @@ To activate the theme, use the keyboard shortcut <kbd>Ctrl</kbd>+<kbd>K</kbd> <k
 
 ---
 
-Starting point for this theme was created usng [themes.vscode.one](https://themes.vscode.one/)
+Starting point for this theme was created using [themes.vscode.one](https://themes.vscode.one/)
