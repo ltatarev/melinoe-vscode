@@ -3,6 +3,7 @@
   "displayName": "Melinoë",
   "description": "Dark & colorful theme for VSCode",
   "publisher": "ltatarev",
+  "version": "0.0.4",
   "author": {
     "name": "ltatarev",
     "url": "https://ltatarev.github.io/"
@@ -12,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/ltatarev/melinoe-vscode"
   },
-  "version": "0.0.3",
   "engines": {
     "vscode": ">=1.74.0"
   },
