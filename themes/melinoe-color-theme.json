@@ -599,7 +599,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#5d95ff"
+        "foreground": "#00e5ff"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#33c2ad"
+        "foreground": "#a268ff"
       }
     },
     {
