@@ -3,7 +3,7 @@
   "displayName": "Melinoë",
   "description": "Dark & colorful theme for VSCode",
   "publisher": "ltatarev",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "author": {
     "name": "ltatarev",
     "url": "https://ltatarev.github.io/"
@@ -21,7 +21,9 @@
   },
   "keywords": [
     "purple",
-    "dark theme"
+    "dark theme",
+    "green",
+    "light theme"
   ],
   "galleryBanner": {
     "color": "#201328",
@@ -36,6 +38,16 @@
         "label": "Melinoe Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/melinoe-color-theme.json"
+      },
+      {
+        "label": "Melinoe Moss Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moss-dark-color-theme.json"
+      },
+      {
+        "label": "Melinoe Moss Light",
+        "uiTheme": "vs",
+        "path": "./themes/moss-light-color-theme.json"
       }
     ]
   }
