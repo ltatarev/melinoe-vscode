@@ -1,5 +1,7 @@
 name: Publish to VSC Marketplace
 
+# Publish when a GitHub release is published.
+# Authentication uses Marketplace Trusted Publishing (GitHub OIDC), so no PAT secret is necessary.
 on:
   release:
     types: [published]
@@ -7,11 +9,12 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
     steps:
-      - uses: actions/checkout@v2
-      - run: npm install
-      - uses: lannonbr/vsce-action@master
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          args: "publish -p $VSCE_TOKEN"
-        env:
-          VSCE_TOKEN: ${{ secrets.TOKEN }}
+          node-version: 22
+      - run: npx @vscode/vsce publish --oidc
